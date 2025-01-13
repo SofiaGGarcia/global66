@@ -29,7 +29,7 @@ This component interacts with a custom Apex controller to perform server-side op
 
 1. **Clone the Repository**
    ```bash
-   git clone <[repository-url](https://github.com/SofiaGGarcia/global66.git)>
+   git clone <(https://github.com/SofiaGGarcia/global66.git)>
    ```
 
 2. **Authorize Your Org**
